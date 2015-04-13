@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9F03FC17-6086-4B5D-9D4F-C5E93CFC354B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PEPhotoCropEditor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAE6F6E2D7B4EA74D75432DECE061B9EDF1B0EA5</key>
+		<string>github.com:zhoushiwei/PhotoEditor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PEPhotoCropEditor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAE6F6E2D7B4EA74D75432DECE061B9EDF1B0EA5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:zhoushiwei/PhotoEditor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAE6F6E2D7B4EA74D75432DECE061B9EDF1B0EA5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAE6F6E2D7B4EA74D75432DECE061B9EDF1B0EA5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PEPhotoCropEditor-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
